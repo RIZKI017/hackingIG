@@ -10,7 +10,7 @@ $ pkg install curl -y
 $ pkg install bash -y
 $ pkg install jq -y
 $ pkg install git -y
-$ git clone https://github.com/JExCoders/IG-Hack
+$ git clone https://github.com/RIZKI017/hackingIG
 $ cd IG-Hack
 $ bash ighack.sh
 
