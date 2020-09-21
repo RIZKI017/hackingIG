@@ -1,5 +1,5 @@
 #!/bin/bash
-#author Zan { JavaGhost }
+#author RIFKI017
 
 
 #color(bold)
@@ -27,9 +27,9 @@ echo   ""
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 echo   "     XploitSecurity-ID         "   
 echo   " ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "    
-echo   "Tutorial nya silahkan cek blog saya "    
-echo   "    blog.linuxploit.com  "    
-echo   " Silahkan Contact saya : +6288802832083"    
+echo   "GUNAKAN DEGAN BIJAK COK"    
+echo   "    CONGKANG CITI   "    
+echo   " SCRIP BY.RIFKI017 CONGKANG21 "    
 echo   "  ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●   "   
 
 #dependencies
