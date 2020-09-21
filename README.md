@@ -11,12 +11,10 @@ $ pkg install bash -y
 $ pkg install jq -y
 $ pkg install git -y
 $ git clone https://github.com/RIZKI017/hackingIG
-$ cd IG-Hack
-$ bash ighack.sh
+$ cd hackingIG
+$ bash hackingIG.sh
 
 Found Error? Send Me Screenshot !!
-
-Whatsapp: +6288802832083
 
 
 
